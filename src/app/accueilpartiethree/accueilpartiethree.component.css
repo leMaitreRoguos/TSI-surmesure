@@ -1,7 +1,6 @@
 .container{
     margin-top: 100px;
     background-color: rgb(248, 247, 247);
-    height: 600px;
     
 }
 
@@ -91,8 +90,8 @@
 
   .p14 {
     animation: fade-in 16s 7.5s forwards cubic-bezier(0.11, 0, 0.5, 0);
-    border: 0.1em dashed green;
-    width: 250px;
+    /*border: 0.1em dashed green;
+    width: 250px;*/
   }
 
   .a{
